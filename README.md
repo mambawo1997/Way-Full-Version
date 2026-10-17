@@ -251,4 +251,4 @@ This repository serves as the official landing page for Way. The software is dis
 **Get the most recent version of Way today!**
 
 ---
-**Last updated:** 2026-10-17 14:37:56 UTC
+**Last updated:** 2026-10-17 17:37:04 UTC
